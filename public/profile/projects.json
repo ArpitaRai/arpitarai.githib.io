@@ -1,0 +1,65 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/project1.png",
+            "title": "Cloud Native Web Application",
+            "bodyText": "- Developed a RESTful CRUD customer management web application on **Google Cloud Platform** using **Node.js** and **MySQL**.\n- Designed a **Terraform** template for various IaaS services including VPC, Subnets, Compute Engine, Cloud SQL, Cloud Storage, Load Balancing, Cloud DNS, Cloud Logging, IAM Roles, Cloud Functions, Pub/Sub, and Firewall Rules.\n- Created a **CI/CD pipeline** with **GitHub Actions** to trigger Packer image builds and Cloud Deploy actions.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ArpitaRai/GCP-webapp"
+                }
+            ],
+            "tags": [
+                "Google Cloud Platform",
+                "Node.js",
+                "MySQL",
+                "Terraform",
+                "CI/CD",
+                "GitHub Actions"
+            ]
+        },
+        {
+            "image": "images/projects/trendr.png",
+            "title": "TRENDR - News Summarization Application",
+            "bodyText": "- Led the software development lifecycle for a news summary app using **Next.js**, **React**, **Redux**, and **Node.js**.\n- Integrated external APIs for news fetching, **GPT-4 APIs** for article summarization, and **Twitter APIs** for related tweet display.\n- Utilized **MongoDB** and **Mongoose** to create a full-stack application.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ArpitaRai/trendr"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://trendr-news-summarization.vercel.app/"
+                }
+            ],
+            "tags": [
+                "Next.js",
+                "React",
+                "Redux",
+                "Node.js",
+                "MongoDB",
+                "GPT-4",
+                "Twitter API"
+            ]
+        },{
+            "image": "images/projects/project3.jpg",
+            "title": "World Energy - Web Scrapping",
+            "bodyText": "- Developed a comprehensive **database** project using **Python** and **MySQL**.\n- Performed **Twitter scraping** for data gathering, munging, cleaning, and normalization using Python scripts.\n- Created domain-related tables and visualized data using **ER Diagrams** and **SQL Queries**.\n- Analyzed energy consumption data by country and geographical groupings, focusing on CO2 emissions and renewable energy sources.\n- Tools used: **Python**, **MySQL**, **Twitter API**, **Data Visualization**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ArpitaRai/DMDD_Project_WorldEnergy"
+                }
+            ],
+            "tags": [
+                "Python",
+                "MySQL",
+                "Data Scraping",
+                "Data Visualization",
+                "Twitter API",
+                "ER Diagram"
+            ]
+        }
+    ]
+}

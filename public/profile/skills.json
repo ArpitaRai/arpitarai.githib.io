@@ -1,0 +1,85 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools, and platforms I have worked with:",
+    "skills": [
+        {
+            "title": "Languages & Databases",
+            "items": [
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/csharp.png",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
+                },
+                {
+                    "icon": "images/skills/postgresql.svg",
+                    "title": "PostgreSQL"
+                }
+            ]
+        },
+        {
+            "title": "Frameworks & Technologies",
+            "items": [
+                {
+                    "icon": "images/skills/spring.svg",
+                    "title": "Spring Boot"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Node.js"
+                },
+                {
+                    "icon": "images/skills/icons8-express-js-50.png",
+                    "title": "Express"
+                }
+            ]
+        },
+        {
+            "title": "Cloud & DevOps",
+            "items": [
+                {
+                    "icon": "images/skills/Amazon_Web_Services_Logo.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/gcp.png",
+                    "title": "Google Cloud Platform"
+                },
+                {
+                    "icon": "images/skills/tf.png",
+                    "title": "Terraform"
+                },
+                {
+                    "icon": "images/skills/packer.png",
+                    "title": "HashiCorp Packer"
+                },
+                {
+                    "icon": "images/skills/Tux.svg.png",
+                    "title": "Linux"
+                }
+            ]
+        }
+        
+    ]
+}

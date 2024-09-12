@@ -1,0 +1,50 @@
+{
+    "experiences": [
+        {
+            "title": "Cloud Software Developer",
+            "subtitle": "New York Life – Digital R&D Lab",
+            "workType": "Co-Op",
+            "workDescription": [
+                "Engineered Java and Spring Boot Backend APIs for the in-house 'GuideMe' app, supporting 10k agents nationwide.",
+                "Integrated Salesforce REST APIs, contributed to DB design, and optimized database transactions for enhanced app performance.",
+                "Implemented Agile principles for sprint backlog delivery using GitHub-based CI/CD pipelines.",
+                "Collaborated closely with backend, frontend, and QA teams to ensure on-schedule implementation of key functionality."
+            ],
+            "dateText": "07/2023 – 12/2023"
+        },
+        {
+            "title": "Software Developer",
+            "subtitle": "Innover Digital",
+            "workType": "Full-time",
+            "workDescription": [
+                "Designed and deployed serverless applications on AWS using API Gateway and Lambda functions.",
+                "Implemented State machines and Step functions for streamlined workflows.",
+                "Integrated DynamoDB for efficient data management, leading to scalable and cost-effective solutions.",
+                "Led the design and implementation of 7 end-to-end features using RESTful microservices, transforming legacy applications into a cloud-hosted suite for SSENSE Fashion Company."
+            ],
+            "dateText": "12/2021 – 08/2022"
+        },
+        {
+            "title": "Software Developer",
+            "subtitle": "Siemens Technology and Private Limited",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed secure and scalable RESTful APIs using Java Spring Boot, AWS serverless framework, and MS-SQL.",
+                "Optimized existing Java APIs through code migration to modular and scalable NodeJS services within the AWS Cloud.",
+                "Resolved critical bugs, employed Cucumber for development and testing, improving application performance reliability."
+            ],
+            "dateText": "07/2019 – 10/2021"
+        },
+        {
+            "title": "Full Stack Intern",
+            "subtitle": "Siemens Technology and Private Limited",
+            "workType": "Internship",
+            "workDescription": [
+                "Assisted the Senior Architect in designing and implementing an e-commerce platform for selling replaceable parts.",
+                "Contributed to core API development using ASP.NET and integrated MongoDB.",
+                "Automated the DIGSI application with Ranorex and C# scripts for enhanced fault recording and logging of electrical goods."
+            ],
+            "dateText": "06/2018 – 04/2019"
+        }
+    ]
+}

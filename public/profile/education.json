@@ -1,0 +1,17 @@
+{
+    "education":[
+        {
+            "title": "Sep 2022 - Dec 2024",
+            "cardTitle": "MS, Information Systems",
+            "cardSubtitle":"Northeastern University, Boston",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Sep 2015 - Apr 2019",
+            "cardTitle": "BTech, Computer Science",
+            "cardSubtitle":"SRM University"
+        }
+    ]
+}

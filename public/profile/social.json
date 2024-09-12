@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/arpitarai/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/ArpitaRai"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:017arpitarai.com"
+        }
+    ]
+}
